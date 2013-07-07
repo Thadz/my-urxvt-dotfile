@@ -27,9 +27,8 @@ URxvt.internalBorder:       3
 URxvt.lineSpace:            0
 
 ! Fonts
-URxvt.allow_bold:           false
 URxvt*font: xft:Ubuntu Mono-13
-!URxvt*boldFont: xft:Ubuntu Mono Bold:pixelsize=13
+
 
 ! Fix font space
 URxvt*letterSpace: -1
@@ -64,11 +63,11 @@ URxvt*color8  : #555753
 URxvt*color1  : #CC0000
 URxvt*color9  : #EF2929
 ! green
-URxvt*color2  : #4E9A06
+URxvt*color2  : #A6E22E
 URxvt*color10 : #8AE234
 ! yellow
-URxvt*color3  : #C4A000
-URxvt*color11 : #FCE94F
+URxvt*color3  : #E6DB74
+URxvt*color11 : #75715E
 ! blue
 URxvt*color4  : #3465A4
 URxvt*color12 : #729FCF
@@ -77,7 +76,7 @@ URxvt*color5  : #75507B
 URxvt*color13 : #AD7FA8
 ! cyan
 URxvt*color6  : #06989A
-URxvt*color14 : #34E2E2
+URxvt*color14 : #66D9EF
 ! white
 URxvt*color7  : #D3D7CF
 URxvt*color15 : #EEEEEC
