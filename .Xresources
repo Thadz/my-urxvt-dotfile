@@ -2,11 +2,11 @@
 ! Xft settings
 !-------------------------------------------------------------------------------
 
-Xft.dpi:                    96
-Xft.antialias:              false
-Xft.rgba:                   rgb
-Xft.hinting:                true
-Xft.hintstyle:              hintslight
+! Xft.dpi:                    96
+! Xft.antialias:              false
+! Xft.rgba:                   rgb
+! Xft.hinting:                true
+! Xft.hintstyle:              hintslight
 
 !-------------------------------------------------------------------------------
 ! URxvt settings
@@ -16,7 +16,7 @@ Xft.hintstyle:              hintslight
 !-------------------------------------------------------------------------------
 
 URxvt.depth:                32
-URxvt.geometry:             90x30
+URxvt.geometry:             64x18
 URxvt.transparent:          false
 URxvt.fading:               0
 ! URxvt.urgentOnBell:         true
@@ -28,9 +28,8 @@ URxvt.lineSpace:            0
 
 ! Fonts
 URxvt.allow_bold:           false
-/* URxvt.font:                 -*-terminus-medium-r-normal-*-12-120-72-72-c-60-iso8859-1 */
-URxvt*font: xft:Monospace:pixelsize=14
-URxvt*boldFont: xft:Monospace:pixelsize=14
+URxvt*font: xft:Ubuntu Mono-13
+!URxvt*boldFont: xft:Ubuntu Mono Bold:pixelsize=13
 
 ! Fix font space
 URxvt*letterSpace: -1
@@ -53,8 +52,8 @@ URxvt.cursorUnderline:      false
 URxvt.pointerBlank:         true
 
 !urxvt color scheme:
-URxvt*background: #2B2B2B
-URxvt*foreground: #DEDEDE
+URxvt*background: #1B1D1E
+URxvt*foreground: #F8F8F2
 
 URxvt*colorUL: #86a2b0
 
