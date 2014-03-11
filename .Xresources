@@ -51,7 +51,7 @@ URxvt.cursorUnderline:      false
 URxvt.pointerBlank:         true
 
 !urxvt color scheme:
-URxvt*background: #1B1D1E
+URxvt*background: #2D2D2D
 URxvt*foreground: #F8F8F2
 
 URxvt*colorUL: #86a2b0
