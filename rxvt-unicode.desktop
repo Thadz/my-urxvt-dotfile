@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=rxvt-unicode
+Exec=/usr/bin/urxvt
+Icon=/usr/share/icons/Numix-Shine/48x48/applications/terminal.svg
+Terminal=True
